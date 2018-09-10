@@ -1,0 +1,2 @@
+# daniel_kod
+NinetechJUproject
